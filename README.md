@@ -10,3 +10,11 @@ Instructions for running:
 2. Run the media.py script
 
 Done.
+
+Instructions for downloading this code:
+
+1. Navigate to "nabahmanyar"'s github profile
+
+2. Clone the ud036_StarterCode repo
+
+Done.
