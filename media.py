@@ -13,6 +13,8 @@ class Movie():
 	def show_trailer(self):
 		webbrowser.open(self.trailer_youtube_url)
 
+
+# Just a test procedure if this script is run on its own
 if __name__ == '__main__':
 	print(Movie.__name__)
 	print(Movie.__doc__)
