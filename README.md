@@ -1,20 +1,18 @@
 # ud036_StarterCode
 Source code for a Movie Trailer website.
 By: Navid Bahmanyar
-edited in vim
 
-Instructions for running:
 
-1. If you want to choose which movies to display on the webpage, edit media.py and change the movie instances to the movies you want to display.
+MODULES
 
-2. Run the media.py script
+1. media: defines a movie class and its methods
+2. fresh_tomatoes: defines a function which takes a list of movies
+				   and then creates a movie webpage
 
-Done.
 
-Instructions for downloading this code:
+HOW TO USE:
 
-1. Navigate to "nabahmanyar"'s github profile
-
-2. Clone the ud036_StarterCode repo
-
-Done.
+1. Clone my repository: https://github.com/nbahmanyar/ud036_StarterCode.git
+2. Navigate to the repository in bash
+3. Run "python entertainment_center.py"
+4. It should open a webpage for you, showing you my favorite movies
